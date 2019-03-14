@@ -1,0 +1,38 @@
+# This file was created Thu Mar 14 19:58:06 2019
+# Created by:
+#                       :-) GROMACS - gmx bar, 2018.5 (-:
+# 
+# Executable:   /appl/chem/gromacs/2018.5/bin/gmx
+# Data prefix:  /appl/chem/gromacs/2018.5
+# Working dir:  /wrk/asillanp/fw/for-python/jbar
+# Command line:
+#   gmx bar -f md0.xvg md10.xvg md11.xvg md12.xvg md13.xvg md14.xvg md15.xvg md16.xvg md17.xvg md18.xvg md19.xvg md1.xvg md20.xvg md2.xvg md3.xvg md4.xvg md5.xvg md6.xvg md7.xvg md8.xvg md9.xvg -o -oi
+# gmx bar is part of G R O M A C S:
+#
+# Green Red Orange Magenta Azure Cyan Skyblue
+#
+@    title "Free energy integral"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xy
+     0  0.00
+     1  0.08
+     2  0.14
+     3  0.18
+     4  0.19
+     5  0.19
+     6  0.22
+     7  0.19
+     8  0.11
+     9  0.02
+    10 -0.11
+    11 -0.31
+    12 -0.67
+    13 -1.15
+    14 -1.79
+    15 -2.44
+    16 -2.99
+    17 -3.44
+    18 -3.74
+    19 -3.92
+    20 -3.97
